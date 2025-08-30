@@ -29,7 +29,9 @@ Hardware required:
 
 ---
 
-## Getting Started
+## Procedure
 1. Connect the ADALM-PLUTO SDR to your system.  
-2. Install the required MATLAB toolboxes.  
+2. Install the required MATLAB toolboxes as mentioned above
+3. Run the matlab file
+4. Some files have sections, Run each section in MATLAB
 
